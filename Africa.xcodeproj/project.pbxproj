@@ -46,6 +46,7 @@
 		15EF816729D74CD6007D0F32 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF816629D74CD6007D0F32 /* VideoPlayerView.swift */; };
 		15EF816929D7512C007D0F32 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF816829D7512C007D0F32 /* LocationModel.swift */; };
 		15EF816B29D75469007D0F32 /* CustomMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF816A29D75469007D0F32 /* CustomMapAnnotationView.swift */; };
+		15EF816D29D77FA1007D0F32 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF816C29D77FA1007D0F32 /* MotionAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		15EF816629D74CD6007D0F32 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		15EF816829D7512C007D0F32 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		15EF816A29D75469007D0F32 /* CustomMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMapAnnotationView.swift; sourceTree = "<group>"; };
+		15EF816C29D77FA1007D0F32 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -199,6 +201,7 @@
 				15EF816429D61B2B007D0F32 /* VideoListItemView.swift */,
 				15EF816629D74CD6007D0F32 /* VideoPlayerView.swift */,
 				15EF816A29D75469007D0F32 /* CustomMapAnnotationView.swift */,
+				15EF816C29D77FA1007D0F32 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				15B371E029CCAEBC00C00B72 /* VideoListView.swift in Sources */,
 				15E433F429D3C3FE004F60C7 /* InsetMapView.swift in Sources */,
 				15B371E429CCAF1900C00B72 /* GalleryView.swift in Sources */,
+				15EF816D29D77FA1007D0F32 /* MotionAnimationView.swift in Sources */,
 				15B371EF29CCC34400C00B72 /* CodableBundleExtension.swift in Sources */,
 				15EF816729D74CD6007D0F32 /* VideoPlayerView.swift in Sources */,
 			);
