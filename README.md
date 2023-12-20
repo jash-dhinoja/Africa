@@ -2,7 +2,7 @@
     <img src="icon.png" alt="Logo" width="80" height="80">
 </p>
   <h2 align="center">Africa</h3>
-This portfolio project encompasses a SwiftUI application demonstrating a range of essential iOS development topics, techniques, and integrations to provide comprehensive insights into SwiftUI's capabilities.
+This project encompasses a SwiftUI application demonstrating a range of essential iOS development topics, techniques, and integrations to provide comprehensive insights into SwiftUI's capabilities.
 ##Screen recordings
 <p align="row">
 
