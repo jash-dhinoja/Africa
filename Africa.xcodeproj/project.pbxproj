@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1542363B2B334599008DF2E8 /* screenrecording.mov in Resources */ = {isa = PBXBuildFile; fileRef = 1542363A2B334599008DF2E8 /* screenrecording.mov */; };
 		15B371B229CCAB1B00C00B72 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B371B129CCAB1B00C00B72 /* AfricaApp.swift */; };
 		15B371B429CCAB1B00C00B72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B371B329CCAB1B00C00B72 /* ContentView.swift */; };
 		15B371B629CCAB2000C00B72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15B371B529CCAB2000C00B72 /* Assets.xcassets */; };
@@ -50,6 +51,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		154236392B333D1A008DF2E8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1542363A2B334599008DF2E8 /* screenrecording.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = screenrecording.mov; sourceTree = "<group>"; };
 		15B371AE29CCAB1B00C00B72 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15B371B129CCAB1B00C00B72 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		15B371B329CCAB1B00C00B72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,9 +108,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		154236382B333CDA008DF2E8 /* screenrecordings */ = {
+			isa = PBXGroup;
+			children = (
+				1542363A2B334599008DF2E8 /* screenrecording.mov */,
+			);
+			path = screenrecordings;
+			sourceTree = "<group>";
+		};
 		15B371A529CCAB1B00C00B72 = {
 			isa = PBXGroup;
 			children = (
+				154236392B333D1A008DF2E8 /* README.md */,
+				154236382B333CDA008DF2E8 /* screenrecordings */,
 				15B371B029CCAB1B00C00B72 /* Africa */,
 				15B371AF29CCAB1B00C00B72 /* Products */,
 			);
@@ -299,6 +312,7 @@
 				15B371CA29CCAC7C00C00B72 /* gorilla.mp4 in Resources */,
 				15B371D929CCACAD00C00B72 /* videos.json in Resources */,
 				15B371B629CCAB2000C00B72 /* Assets.xcassets in Resources */,
+				1542363B2B334599008DF2E8 /* screenrecording.mov in Resources */,
 				15B371CE29CCAC7C00C00B72 /* zebra.mp4 in Resources */,
 				15B371DA29CCACAD00C00B72 /* covers.json in Resources */,
 				15B371CC29CCAC7C00C00B72 /* giraffe.mp4 in Resources */,
