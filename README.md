@@ -49,7 +49,7 @@ To explore and run the project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio-app.git
+git clone https://github.com/jash-dhinoja/Africa.git
 ```
 
 2. Open the project in Xcode and run it on a simulator or a physical device.
