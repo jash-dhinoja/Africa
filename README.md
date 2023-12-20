@@ -1,12 +1,14 @@
 <p align="center">
-    <img src="screenshots/icon.png" alt="Logo" width="80" height="80">
+    <img src="icon.png" alt="Logo" width="80" height="80">
 </p>
   <h2 align="center">Africa</h3>
 This portfolio project encompasses a SwiftUI application demonstrating a range of essential iOS development topics, techniques, and integrations to provide comprehensive insights into SwiftUI's capabilities.
 ##Screen recordings
 <p align="row">
 
+https://github.com/jash-dhinoja/Africa/assets/80220432/f577b548-23bd-4b98-bc1a-3cebc2190c38
 
+https://github.com/jash-dhinoja/Africa/assets/80220432/b6b83ee8-d4ef-4018-8ab8-99462845d64c
 
 ## Features demonstrated
 
